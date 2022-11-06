@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "i18nupdatemod",
   "version": "${version}",
-  "name": "I18n Update Mod",
+  "name": "I18nUpdateMod Non-LTS",
   "description": "自动汉化更新模组",
   "authors": [
     "TartaricAcid",
