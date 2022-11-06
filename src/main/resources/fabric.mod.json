@@ -21,6 +21,7 @@
     ]
   },
   "mixins": [
+    "i18n.mixin.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.6",
