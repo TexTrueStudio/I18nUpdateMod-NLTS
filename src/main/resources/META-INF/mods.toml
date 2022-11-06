@@ -5,6 +5,6 @@ license="MIT"
 [[mods]]
     modId="i18nupdatemod"
     version="${file.jarVersion}"
-    displayName="i18nUpdateMod-NLTS"
+    displayName="i18nUpdateMod Non-LTS"
     authors="TartaricAcid, baka-gourd, exzhawk"
     description="自动汉化更新模组"
