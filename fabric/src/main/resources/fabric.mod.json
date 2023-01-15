@@ -19,7 +19,7 @@
     "sources": "https://github.com/TexTrueStudio/I18nUpdateMod2-NLTS"
   },
   "icon": "assets/i18n/icon.png",
-  "license": "MIT",
+  "license": "GPLv3",
   "environment": "client",
   "entrypoints": {
     "client": [

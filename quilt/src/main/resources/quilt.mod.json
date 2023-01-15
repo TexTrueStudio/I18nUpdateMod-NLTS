@@ -17,7 +17,7 @@
 				"sources": "https://github.com/TexTrueStudio/I18nUpdateMod2-NLTS"
 			},
 			"icon": "assets/i18n/icon.png",
-			"license": "MIT"
+			"license": "GPLv3"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
