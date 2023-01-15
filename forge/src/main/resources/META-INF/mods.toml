@@ -1,6 +1,6 @@
 modLoader = "javafml"
 loaderVersion = "[39,)"
-license = "MIT"
+license = "GPLv3"
 
 [[mods]]
 modId = "i18nupdatemod"
