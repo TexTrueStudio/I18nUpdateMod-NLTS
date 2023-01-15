@@ -28,7 +28,7 @@ ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.i18nupdatemod]]
-modId = "cloth_config"
+modId = "cloth-config"
 mandatory = true
 versionRange = "[4,)"
 ordering = "NONE"
